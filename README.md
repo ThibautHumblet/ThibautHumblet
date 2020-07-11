@@ -1,6 +1,6 @@
 ## Welcome to my Github profile page
 
-I am a young developer passionate about .NET, MEAN, Python and other softaware languages. Feel free to take a look at my repo's and ask me questions about my projects.
+I am a young developer passionate about .NET, MEAN, Python and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects.
 
 Lots of love <3 ,
 ### Thibaut
