@@ -1,9 +1,9 @@
-### Welcome to my Github profile page
+## Welcome to my Github profile page
 
 I am a young developer passionate about .NET, MEAN, Python and other softaware languages. Feel free to take a look at my repo's and ask me questions about my projects.
 
-Lots of love <3
-Thibaut
+Lots of love <3 ,
+### Thibaut
 
 <!--
 **ThibautHumblet/ThibautHumblet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
