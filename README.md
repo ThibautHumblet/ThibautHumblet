@@ -1,6 +1,16 @@
 ## Hello, I'm Thibaut - also known as [Thumblet][website]
+<p align="center">
+    <a href="https://github.com/ThibautHumblet">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/ThibautHumblet?style=social">
+  </a>
+  <a href="https://twitter.com/HumbletThibaut">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/HumbletThibaut?style=social">
+  </a>
+  </p>
 
 I am a young developer passionate about .NET, MEAN, Python and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects.
+
+---
 
 ![ThibautHumblets](https://github-readme-statistics-brown.vercel.app/api?username=ThibautHumblet&count_private=true&show_icons=true&hide_border=true)
 
