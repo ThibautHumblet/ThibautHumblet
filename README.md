@@ -12,8 +12,9 @@ I am a young developer passionate about .NET, MEAN, Python and lots of other pro
 
 ---
 
-![ThibautHumblets](https://github-readme-statistics-brown.vercel.app/api?username=ThibautHumblet&count_private=true&show_icons=true&hide_border=true)
-
+Top  used languages        |  Github Statistics
+:-------------------------:|:-------------------------:
+![Top Langs](https://github-readme-statistics-brown.vercel.app/api/top-langs/?username=ThibautHumblet&langs_count=8&layout=compact)  |  ![ThibautHumblets](https://github-readme-statistics-brown.vercel.app/api?username=ThibautHumblet&count_private=true&show_icons=true&hide_border=true)
 
 ### Languages and Tools:
 
