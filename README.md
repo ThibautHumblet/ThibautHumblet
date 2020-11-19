@@ -2,7 +2,7 @@
 
 I am a young developer passionate about .NET, MEAN, Python and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects.
 
-![ThibautHumblets](https://github-readme-statistics-brown.vercel.app/api?username=ThibautHumblet&show_icons=true&hide_border=true)
+![ThibautHumblets](https://github-readme-statistics-brown.vercel.app/api?username=ThibautHumblet&count_private=true&show_icons=true&hide_border=true)
 
 
 ### Languages and Tools:
