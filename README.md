@@ -8,9 +8,11 @@
   </a>
   </p>
 
-I am a young developer passionate about .NET, MEAN, Python and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently, I've got my bachelors degree in Electronics-ICT. You can see some of my projects at my personal [website][website].
+I am a young developer passionate about C# and everything .NET. Currently, I'm a dotnet software engineer at [Axxes IT Consultancy][axxes]. Feel free to browse my repo's and ask me questions about my projects. You can see some of my projects at my personal [website][website].
 
 - 💻 IT enthusiast
+- 🏬 Working as a software engineer @ [Axxes IT Consultancy][axxes]
+- 🙌 Coach @ [Hack Your Future Belgium][hyf]
 - ✨ Loves pretty design
 - 🦉 Night owl
 - 👨‍🎓 Bachelors degree in Electronics-ICT
@@ -54,7 +56,7 @@ Top  used languages        |  Github Statistics
 
 ### Some useful tools
 
-If you would like to improve your Visual Studio Code-working space, I can recommend you the following extentions;
+If you would like to improve your Visual Studio Code-workspace, I can recommend you the following extentions;
  - [Emmet][emmet]
  - [Live share][live share]
  - [Live server][live server]
@@ -73,3 +75,5 @@ Lots of love <3 ,
 [live share]: https://visualstudio.microsoft.com/services/live-share/
 [live server]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 [code time]: https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode
+[axxes]: https://www.axxes.com/en
+[hyf]: https://github.com/HackYourFutureBelgium
